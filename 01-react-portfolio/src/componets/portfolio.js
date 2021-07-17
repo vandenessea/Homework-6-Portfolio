@@ -1,4 +1,4 @@
-import react from 'react';
+import React from 'react';
 
 // React components are isolated parts of an application that help organize and isolate different parts of the program into smaller chunks
 // We can pass data to these components and even render other components inside other components.
@@ -21,11 +21,6 @@ function portfolio() {
 
 
 export default portfolio;
-
-
-
-
-
 
 
 
